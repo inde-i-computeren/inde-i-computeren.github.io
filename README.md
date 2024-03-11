@@ -1,1 +1,1 @@
-# inde-i-computeren.github.io
+Velkommen til "Hvordan fungerer din computer?"
